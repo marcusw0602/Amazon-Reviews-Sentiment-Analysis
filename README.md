@@ -6,7 +6,7 @@
 
 # DataAnalysis and Machine Learning
 
-This repository will house all code and presentations for all class assignments along with side projects related to Machine leanring.
+This repository will house all code and presentations for all works done to provide and accurate sentiment analysis of Amazon's product reviews.
 
 ## Links to all Machine Learning and Analysis repos below plus linkedin page:
 
