@@ -10,6 +10,6 @@ This repository will house all code and presentations for all works done to prov
 
 ## Links to all Machine Learning and Analysis repos below plus linkedin page:
 
-<a href=https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects>ML</a>: Link for all Assignments and Projects
+<a href=https://github.com/marcusw0602/Amazon-Reviews-Sentiment-Analysis/tree/main/Data%20Analysis>Analysis/prediction models</a>: Link for all Assignments and Projects
 
 <a href=https://github.com/marcusw0602/Amazon-Reviews-Sentiment-Analysis/tree/main/Data%20analysis%20Application>Web Application</a>: displaying my work history and latest update resume feel free to follow me. 
