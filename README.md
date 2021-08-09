@@ -1,7 +1,7 @@
 # Amazon-Reviews-Sentiment-Analysis
 
 <div class="container" align="center">
-    <img src="https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/blob/master/Pictures/ML.jpg" width="500" height="350">
+    <img src="https://github.com/marcusw0602/Amazon-Reviews-Sentiment-Analysis/blob/main/Pictures/OIP.jfif" width="500" height="350">
     </div>
 
 # DataAnalysis and Machine Learning
