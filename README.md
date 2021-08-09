@@ -10,6 +10,6 @@ This repository will house all code and presentations for all works done to prov
 
 ## Links to all Machine Learning and Analysis repos below plus linkedin page:
 
-<a href=https://github.com/marcusw0602/Amazon-Reviews-Sentiment-Analysis/tree/main/Data%20Analysis>Analysis/prediction models</a>: Link for all Assignments and Projects
+<a href=https://github.com/marcusw0602/Amazon-Reviews-Sentiment-Analysis/tree/main/Data%20Analysis>Analysis/prediction models</a>: This link will take you to the page were there is a jupyter notebook created by me and a few classmates showing our analysis and machine learning prediction models of an Amazon product review data set.   
 
-<a href=https://github.com/marcusw0602/Amazon-Reviews-Sentiment-Analysis/tree/main/Data%20analysis%20Application>Web Application</a>: displaying my work history and latest update resume feel free to follow me. 
+<a href=https://github.com/marcusw0602/Amazon-Reviews-Sentiment-Analysis/tree/main/Data%20analysis%20Application>Web Application</a>: This link will take you to the page were I created a simply Data Analysis Web application to make the jupyter notebook more interactive to the general public. Please fill free to download and use the applications along with the data set. 
